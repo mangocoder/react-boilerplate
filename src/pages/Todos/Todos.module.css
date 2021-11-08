@@ -1,0 +1,16 @@
+.todoInput {
+  width: 500px;
+  padding: 10px 20px;
+  font-size: 25px;
+}
+
+.inputContainer {
+  display: flex;
+  justify-content: center;
+}
+
+.todosContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
